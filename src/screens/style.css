@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(rgba(233, 229, 229, 0.2), rgba(233, 229, 229, 0.2)), url('../assets/background.png');
+}
+
+input:focus {
+    border-color: #af41c4;
+}
+
+.center {
+    text-align: center;
+    color: #565656;
+}
+
+
+
